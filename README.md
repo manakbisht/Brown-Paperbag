@@ -1,10 +1,11 @@
-# brown-paperbag
+# Brown-Paperbag
 Download all 'Brown Paperbag' comics using this python script. 
 
 ## Dependencies
 ```bash
 pip3 install requests
 pip3 install beautifulsoup4
+pip3 install Pillow
 ```
 ## Explanation
 You can directly run this script as
